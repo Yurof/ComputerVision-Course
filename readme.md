@@ -1,6 +1,6 @@
 # Chapter 9 - Face Recognition
 ## Face recognition by Eigenfaces method :
-- identify a face from a database of faces
+- identify a face from a database of faces 
 - determine whether an image contains a face present in the database
 - to decide whether an image represents a face or not <br />
 
